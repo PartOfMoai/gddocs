@@ -10,7 +10,7 @@
 
 **GDDocs** is a project built to openly give advanced information and readable information for aspiring developers looking to interface with Geometry Dash. Primarily, we aim to create this as a website for people to learn more about the inner workings of geometry dash, along with it's data.
 
-This fork's GDDocs website can be found [here](https://poms-gddocs.pages.dev/#)
+This fork's GDDocs website can be found [here](partofmoai.github.io/gddocs/#)
 
 ## Running/Building
 **You will require Node.js `>=12` to debug and run this project.**
@@ -27,5 +27,5 @@ To debug it, you will need to properly clone or pull this repository.
 
 ## Contributing
 
-Contributions are preferably made to the documentation, rather than the simple `generator.js` file; unless need be. Contributions to all aspects of this project are preferred to be made over pull requests and issues. Ideas on what to contribute or read over can be read in the [issues](https://github.com/gd-programming/gddocs/issues) section of this repository.
+Contributions are preferably made to the documentation, rather than the simple `generator.js` file; unless need be. Contributions to all aspects of this project are preferred to be made over pull requests and issues. Ideas on what to contribute or read over can be read in the [issues](https://github.com/partofmoai/gddocs/issues) section of this repository.
 
