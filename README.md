@@ -10,7 +10,7 @@
 
 **GDDocs** is a project built to openly give advanced information and readable information for aspiring developers looking to interface with Geometry Dash. Primarily, we aim to create this as a website for people to learn more about the inner workings of geometry dash, along with it's data.
 
-The GDDocs website can be found [here](https://wyliemaster.github.io/gddocs/#/)
+This fork's GDDocs website can be found [here](https://poms-gddocs.pages.dev/#)
 
 ## Running/Building
 **You will require Node.js `>=12` to debug and run this project.**
